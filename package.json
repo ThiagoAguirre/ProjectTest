@@ -2,9 +2,9 @@
   "name": "my-website",
   "version": "1.0.0",
   "description": "A simple website for testing purposes.",
-  "main": "public/index.html",
+  "main": "index.html",
   "scripts": {
-    "start": "live-server public",
+    "start": "live-server .",
     "build": "echo 'Build step not defined'"
   },
   "keywords": [],
